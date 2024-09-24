@@ -1,1 +1,1 @@
-"# RFID" 
+To make it work, open the com port and attach the key, then the ID will be output to the com port, copy and paste on the 9th line of the code, where the key is also commented out, write the code below in the condition if the necessary key is attached, or not if it is not correct
